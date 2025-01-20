@@ -166,4 +166,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - SHASHWAT PAL 
-Project Link: 
+Project Link: https://github.com/Shashwat-993/Blockchain-Based-Supply-Chain-Transparency-System
