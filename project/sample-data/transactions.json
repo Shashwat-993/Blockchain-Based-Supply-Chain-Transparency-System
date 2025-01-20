@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": "TRX001",
+      "productId": "PRD001",
+      "fromStakeholder": "STK001",
+      "toStakeholder": "STK002",
+      "timestamp": "2024-01-16T08:30:00Z",
+      "type": "Transfer",
+      "quantity": 1000,
+      "price": 25990.00,
+      "status": "Completed",
+      "documents": {
+        "invoice": "INV2024001",
+        "billOfLading": "BOL2024001",
+        "qualityCertificate": "QC2024001"
+      }
+    },
+    {
+      "id": "TRX002",
+      "productId": "PRD002",
+      "fromStakeholder": "STK001",
+      "toStakeholder": "STK002",
+      "timestamp": "2024-01-21T10:15:00Z",
+      "type": "Transfer",
+      "quantity": 2000,
+      "price": 37000.00,
+      "status": "InProgress",
+      "documents": {
+        "invoice": "INV2024002",
+        "billOfLading": "BOL2024002",
+        "qualityCertificate": "QC2024002"
+      }
+    },
+    {
+      "id": "TRX003",
+      "productId": "PRD003",
+      "fromStakeholder": "STK001",
+      "toStakeholder": "STK003",
+      "timestamp": "2024-01-11T14:45:00Z",
+      "type": "Transfer",
+      "quantity": 5000,
+      "price": 63750.00,
+      "status": "Pending",
+      "documents": {
+        "invoice": "INV2024003",
+        "billOfLading": "BOL2024003",
+        "qualityCertificate": "QC2024003"
+      }
+    }
+  ]
+}

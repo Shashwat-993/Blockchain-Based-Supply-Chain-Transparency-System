@@ -1,0 +1,49 @@
+{
+  "qualityChecks": [
+    {
+      "id": "QC001",
+      "productId": "PRD001",
+      "timestamp": "2024-01-15T07:30:00Z",
+      "inspector": "John Smith",
+      "location": "Bogota Warehouse",
+      "parameters": {
+        "moisture": "12%",
+        "temperature": "20°C",
+        "humidity": "65%",
+        "quality_grade": "A"
+      },
+      "status": "Passed",
+      "notes": "Meets all quality standards"
+    },
+    {
+      "id": "QC002",
+      "productId": "PRD002",
+      "timestamp": "2024-01-20T09:15:00Z",
+      "inspector": "Emma Johnson",
+      "location": "Accra Distribution Center",
+      "parameters": {
+        "moisture": "8%",
+        "temperature": "22°C",
+        "humidity": "60%",
+        "quality_grade": "A"
+      },
+      "status": "Passed",
+      "notes": "Excellent condition"
+    },
+    {
+      "id": "QC003",
+      "productId": "PRD003",
+      "timestamp": "2024-01-10T11:45:00Z",
+      "inspector": "Raj Patel",
+      "location": "Gujarat Processing Unit",
+      "parameters": {
+        "moisture": "7%",
+        "temperature": "25°C",
+        "humidity": "55%",
+        "quality_grade": "B"
+      },
+      "status": "InProgress",
+      "notes": "Additional testing required"
+    }
+  ]
+}

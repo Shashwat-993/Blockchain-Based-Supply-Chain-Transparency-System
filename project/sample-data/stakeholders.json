@@ -1,0 +1,49 @@
+{
+  "stakeholders": [
+    {
+      "id": "STK001",
+      "name": "Colombian Coffee Co.",
+      "type": "Manufacturer",
+      "ethereumAddress": "0x1234567890123456789012345678901234567890",
+      "location": {
+        "country": "Colombia",
+        "city": "Bogota",
+        "address": "Calle 100 #19-61"
+      },
+      "certifications": [
+        "Fair Trade Certified",
+        "Organic Certified"
+      ]
+    },
+    {
+      "id": "STK002",
+      "name": "Global Logistics Ltd",
+      "type": "Distributor",
+      "ethereumAddress": "0x2345678901234567890123456789012345678901",
+      "location": {
+        "country": "United States",
+        "city": "Miami",
+        "address": "789 Harbor Way"
+      },
+      "certifications": [
+        "ISO 9001:2015",
+        "HACCP Certified"
+      ]
+    },
+    {
+      "id": "STK003",
+      "name": "EuroMart Retail",
+      "type": "Retailer",
+      "ethereumAddress": "0x3456789012345678901234567890123456789012",
+      "location": {
+        "country": "Germany",
+        "city": "Berlin",
+        "address": "Hauptstraße 45"
+      },
+      "certifications": [
+        "EU Retail Standards",
+        "Green Business Certified"
+      ]
+    }
+  ]
+}

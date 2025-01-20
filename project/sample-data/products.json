@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "PRD001",
+      "name": "Organic Coffee Beans",
+      "description": "Premium Arabica coffee beans from Colombian highlands",
+      "batchNumber": "BATCH2024001",
+      "manufacturer": "Colombian Coffee Co.",
+      "manufacturingDate": "2024-01-15",
+      "expiryDate": "2024-12-15",
+      "price": 25.99,
+      "quantity": 1000,
+      "unit": "kg",
+      "status": "InTransit",
+      "currentLocation": {
+        "latitude": 4.5709,
+        "longitude": -74.2973,
+        "facility": "Bogota Warehouse"
+      }
+    },
+    {
+      "id": "PRD002",
+      "name": "Fair Trade Cocoa",
+      "description": "Ethically sourced cocoa beans from Ghana",
+      "batchNumber": "BATCH2024002",
+      "manufacturer": "Ghana Cocoa Board",
+      "manufacturingDate": "2024-01-20",
+      "expiryDate": "2024-11-20",
+      "price": 18.50,
+      "quantity": 2000,
+      "unit": "kg",
+      "status": "Stored",
+      "currentLocation": {
+        "latitude": 5.6037,
+        "longitude": -0.1870,
+        "facility": "Accra Distribution Center"
+      }
+    },
+    {
+      "id": "PRD003",
+      "name": "Organic Cotton",
+      "description": "Sustainably grown cotton from Indian farms",
+      "batchNumber": "BATCH2024003",
+      "manufacturer": "Indian Organic Farms",
+      "manufacturingDate": "2024-01-10",
+      "expiryDate": "2025-01-10",
+      "price": 12.75,
+      "quantity": 5000,
+      "unit": "kg",
+      "status": "QualityCheck",
+      "currentLocation": {
+        "latitude": 23.0225,
+        "longitude": 72.5714,
+        "facility": "Gujarat Processing Unit"
+      }
+    }
+  ]
+}
